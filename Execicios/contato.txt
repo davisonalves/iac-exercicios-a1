@@ -1,0 +1,5 @@
+felipe,felipegaelmelo@hitmail.com,(41) 2618-5147,Rio Brilhante 308,2023-03-22
+daniela,daniela_alice_mendes@foxtech.com.br,(27) 2922-9611,Afonso pena 1000,2023-03-22
+elias,elias.raul.brito@kantoferramentaria.com.br,(21) 3537-6417,Ernesto Geisel 230,2023-03-22
+milena,milenasophiacosta@rotadasbandeiras.com.br,(82) 3908-1953,Pepino Giordano 107,2023-03-22
+sophia,sophia_silvana_melo@etipel.com.br,(86) 3746-7095,Alameda 500,2023-03-22
